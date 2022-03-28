@@ -1,0 +1,6 @@
+Array.newInstance;soot.Type[];java.util.Arrays.copyOf;2760;;
+Array.newInstance;soot.jimple.spark.pag.Node[];java.util.AbstractCollection.toArray;159;;
+Class.newInstance;sun.util.resources.TimeZoneNames;java.util.ResourceBundle$Control.newBundle;2295;;
+Class.newInstance;sun.util.resources.TimeZoneNames_en;java.util.ResourceBundle$Control.newBundle;2295;;
+Constructor.newInstance;<sun.util.resources.TimeZoneNames: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
+Constructor.newInstance;<sun.util.resources.TimeZoneNames_en: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;

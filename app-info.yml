@@ -1,0 +1,18 @@
+findbugs:
+  version: '3.0'
+  jdk: 6
+  main: edu.umd.cs.findbugs.FindBugs2
+  apps:
+    - findbugs/3.0/lib/findbugs.jar
+    - findbugs/3.0/plugin
+  libs: [ findbugs/3.0/lib ]
+  refl-log: findbugs/3.0/refl.log
+
+soot:
+  version: '2.3.0'
+  jdk: 6
+  main: soot.Main
+  apps: [ soot/2.3.0/sootclasses-2.3.0.jar ]
+  libs: [ soot/2.3.0 ]
+  refl-log: soot/2.3.0/refl.log
+  phantom: true
