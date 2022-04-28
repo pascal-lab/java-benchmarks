@@ -1,0 +1,7 @@
+#install4j response file for Columba 1.4
+#Thu Feb 21 04:03:26 AEDT 2019
+sys.programGroup.linkDir=/usr/local/bin
+sys.languageId=en
+sys.installationDir=/home/reviewer/Columba/columba
+sys.programGroup.enabled$Boolean=false
+sys.programGroup.allUsers$Boolean=true

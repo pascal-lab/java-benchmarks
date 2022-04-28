@@ -14,3 +14,19 @@ soot-2.3.0:
   libs: [ soot/2.3.0 ]
   refl-log: soot/2.3.0/refl.log
   phantom: true
+
+gruntspud-0.4.6:
+  jdk: 6
+  main: gruntspud.standalone.JDK13GruntspudHost
+  apps: [ gruntspud/0.4.6/GruntspudSA.jar ]
+  refl-log: gruntspud/0.4.6/refl.log
+
+columba-1.4:
+  jdk: 6
+  main: org.columba.core.main.Main
+  apps: [ columba/1.4/columba.jar ]
+  libs:
+    - columba/1.4/lib
+    - columba/1.4/native/linux
+  refl-log: columba/1.4/refl.log
+  phantom: true

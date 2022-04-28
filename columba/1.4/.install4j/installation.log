@@ -1,0 +1,326 @@
+[INFO] logger started at Thu Feb 21 04:02:39 AEDT 2019
+[INFO] exectuable name: /home/reviewer/Columba/Columba_unix_1_4.sh
+[INFO] Properties: 
+-- listing properties --
+java.runtime.name=Java(TM) SE Runtime Environment
+exe4j.moduleName=/home/reviewer/Columba/Columba_unix_1...
+sun.boot.library.path=/usr/lib/jvm/jdk1.8.0_65/jre/lib/amd64
+java.vm.version=25.65-b01
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+path.separator=:
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=AU
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=unknown
+install4j.exeDir=/home/reviewer/Columba/
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=/home/reviewer/Columba/Columba_unix_1...
+java.runtime.version=1.8.0_65-b17
+java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+java.endorsed.dirs=/usr/lib/jvm/jdk1.8.0_65/jre/lib/endo...
+os.arch=amd64
+java.io.tmpdir=/tmp
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+os.name=Linux
+exe4j.totalDataLength=22851269
+sun.java2d.noddraw=true
+sun.jnu.encoding=UTF-8
+java.library.path=:/usr/java/packages/lib/amd64:/usr/li...
+sun.awt.enableExtraMouseButtons=true
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=3.11.0-15-generic
+user.home=/home/reviewer
+user.timezone=Australia/Sydney
+java.awt.printerjob=sun.print.PSPrinterJob
+java.specification.version=1.8
+install4j.jvmDir=/usr/lib/jvm/jdk1.8.0_65
+file.encoding=UTF-8
+user.name=reviewer
+java.class.path=i4jruntime.jar:user.jar
+java.vm.specification.version=1.8
+sun.arch.data.model=64
+java.home=/usr/lib/jvm/jdk1.8.0_65/jre
+sun.java.command=com.install4j.runtime.Launcher launch...
+java.specification.vendor=Oracle Corporation
+user.language=en
+awt.toolkit=sun.awt.X11.XToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_65
+java.ext.dirs=/usr/lib/jvm/jdk1.8.0_65/jre/lib/ext:...
+sun.boot.class.path=/usr/lib/jvm/jdk1.8.0_65/jre/lib/reso...
+java.vendor=Oracle Corporation
+install4j.appDir=/home/reviewer/Columba/
+file.separator=/
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.cpu.endian=little
+sun.io.unicode.encoding=UnicodeLittle
+sun.font.fontmanager=sun.awt.X11FontManager
+sun.desktop=gnome
+sun.cpu.isalist=
+[INFO] com.install4j.runtime.beans.screens.StartupScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen: Show screen
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.LicenseScreen: Show screen
+[INFO] com.install4j.runtime.beans.screens.LicenseScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen: Show screen
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.StandardProgramGroupScreen: Show screen
+[INFO] com.install4j.runtime.beans.screens.StandardProgramGroupScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen: Show screen
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before execute action
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Property fileFilterScript: null
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Property directoryResolverScript: null
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/ejb3-persistence.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/ejb3-persistence.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/hibernate-entitymanager.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/hibernate-entitymanager.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/javassist.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/javassist.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/asm-attrs.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/asm-attrs.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/hsqldb.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/hsqldb.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/ehcache-1.2.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/ehcache-1.2.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/dom4j-1.6.1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/dom4j-1.6.1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/jta.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/jta.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/cglib-2.1.3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/cglib-2.1.3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/asm.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/asm.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/hibernate3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/hibernate3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/commons-collections-2.1.1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/commons-collections-2.1.1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/jboss-archive-browsing.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/jboss-archive-browsing.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/antlr-2.7.6.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/antlr-2.7.6.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/hibernate-annotations.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/hibernate-annotations.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/commons-logging-1.0.4.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/commons-logging-1.0.4.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpa/README.TXT; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:30 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpa/README.TXT
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jcoverage.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jcoverage.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/checkstyle-all-3.4.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/checkstyle-all-3.4.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/mac_mock.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/mac_mock.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/usermanual.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/usermanual.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/migcalendar-5.6.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/migcalendar-5.6.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/macchiato-1.0pre1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/macchiato-1.0pre1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/frapuccino-1.0pre1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/frapuccino-1.0pre1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/je-2.1.30.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/je-2.1.30.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/swingx.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/swingx.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/groovy-1.0.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/groovy-1.0.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/tagsoup-1.0rc3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/tagsoup-1.0rc3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jython-2.2a1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jython-2.2a1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/bsh-2.0b2.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/bsh-2.0b2.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/flexdock-0.4.1.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/flexdock-0.4.1.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jarbundler-1.9.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jarbundler-1.9.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jpim.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jpim.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/ristretto-1.2-all.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/ristretto-1.2-all.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jwizz-0.1.3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jwizz-0.1.3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/lucene-1.4.3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/lucene-1.4.3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/commons-cli-1.0.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/commons-cli-1.0.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jscf-0.3.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jscf-0.3.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/looks-2.0.2.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/looks-2.0.2.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/forms-1.0.5.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/forms-1.0.5.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jdom-1.0.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jdom-1.0.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jhall-2.0_02.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jhall-2.0_02.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/junit.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/junit.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/core-renderer.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/core-renderer.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/quaqua.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/quaqua.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/commons-logging.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/commons-logging.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/ical4j-0.9.18.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/ical4j-0.9.18.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/lib/jreleaseinfo-1.2.0.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:04:34 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/lib/jreleaseinfo-1.2.0.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/mac/lib/libquaqua.jnilib; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/mac/lib/libquaqua.jnilib
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/MozEmbed.exe; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/MozEmbed.exe
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/jdic.dll; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/jdic.dll
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/jdic.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/jdic.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/jniwrap.dll; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/jniwrap.dll
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/jniwrap-2.4.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/jniwrap-2.4.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/winpack.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/winpack.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/tray.dll; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/tray.dll
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/win32/lib/IeEmbed.exe; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:14 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/win32/lib/IeEmbed.exe
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/libjdic.so; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/libjdic.so
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/mozembed-linux-gtk1.2; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/mozembed-linux-gtk1.2
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/jdic.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/jdic.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/mozembed-linux-gtk2; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/mozembed-linux-gtk2
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/libtray.so; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/libtray.so
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/libmozembed-linux-gtk1.2.so; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/libmozembed-linux-gtk1.2.so
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/native/linux/lib/libmozembed-linux-gtk2.so; exists: false
+[INFO] fileTime: Mon Apr 16 21:01:02 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/native/linux/lib/libmozembed-linux-gtk2.so
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/columba.jar; exists: false
+[INFO] fileTime: Mon Apr 16 21:11:36 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/columba.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/columba.png; exists: false
+[INFO] fileTime: Mon Apr 16 21:12:40 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/columba.png
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/uninstall.png; exists: false
+[INFO] fileTime: Mon Apr 16 21:12:40 AEST 2007, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/uninstall.png
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/columba; exists: false
+[INFO] fileTime: Mon Apr 16 21:12:40 AEST 2007, mode: 755, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/columba
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/uninstall; exists: false
+[INFO] fileTime: Mon Apr 16 21:12:40 AEST 2007, mode: 700, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/uninstall
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/inst_jre.cfg; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/inst_jre.cfg
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/i4jruntime.jar; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/i4jruntime.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/MessagesDefault; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/MessagesDefault
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/i4jparams.conf; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/i4jparams.conf
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/user.jar; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/user.jar
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/i4j_extf_1_anonm1; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/i4j_extf_1_anonm1
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: Before install file: /home/reviewer/Columba/columba/.install4j/i4j_extf_0_anonm1.utf8; exists: false
+[INFO] fileTime: Thu Feb 21 04:03:22 AEDT 2019, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After install file: /home/reviewer/Columba/columba/.install4j/i4j_extf_0_anonm1.utf8
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction: After execute action
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Before execute action
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property enabled: false
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property addUninstaller: true
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property categories: Application
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property programGroupName: Columba
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property allUsers: true
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property linkDirectory: /usr/local/bin
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: Property programGroupEntryConfigs: []
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction: After execute action
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction: Before execute action
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction: Property icon: null
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction: Property itemName: Columba 1.4
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction: Property persistentProperties: {}
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction: After execute action
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen: Rollback barrier reached
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen: Show screen
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen: command: finish
+[INFO] com.install4j.runtime.installer.InstallerContextImpl: Finishing

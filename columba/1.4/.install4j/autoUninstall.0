@@ -1,0 +1,1 @@
+<AutoUninstall><Action CLASSNAME="com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction"/></AutoUninstall>
