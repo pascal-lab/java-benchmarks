@@ -37,3 +37,11 @@ jedit-3.0:
   apps: [ jedit/3.0/jedit.jar ]
   libs: [ jedit/3.0/lib ]
   refl-log: jedit/3.0/refl.log
+
+freecol-0.10.3:
+  jdk: 6
+  main: net.sf.freecol.FreeCol
+  apps: [ freecol/0.10.3/FreeCol.jar ]
+  libs: [ freecol/0.10.3/jars ]
+  refl-log: freecol/0.10.3/refl.log
+  phantom: true
