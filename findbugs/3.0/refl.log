@@ -112,7 +112,6 @@ Class.newInstance;org.apache.bcel.generic.INVOKEVIRTUAL;org.apache.bcel.generic.
 Class.newInstance;org.apache.bcel.generic.LDC;org.apache.bcel.generic.Instruction.readInstruction;168;;
 Class.newInstance;org.dom4j.DocumentFactory;org.dom4j.DocumentFactory.createSingleton;299;;
 Class.newInstance;sun.net.www.protocol.jar.Handler;java.net.URL.getURLStreamHandler;1171;;
-Class.newInstance;sun.reflect.GeneratedConstructorAccessor$HASHED$7b916dc4ac6ca3b2c3fcd1fd199e4f0f9d94fab4;sun.reflect.MethodAccessorGenerator$1.run;381;;
 Class.newInstance;sun.text.resources.FormatData;java.util.ResourceBundle$Control.newBundle;2295;;
 Class.newInstance;sun.text.resources.FormatData_en;java.util.ResourceBundle$Control.newBundle;2295;;
 Class.newInstance;sun.text.resources.FormatData_en_US;java.util.ResourceBundle$Control.newBundle;2295;;
@@ -243,7 +242,6 @@ Constructor.newInstance;<org.apache.bcel.generic.INVOKEVIRTUAL: void <init>()>;j
 Constructor.newInstance;<org.apache.bcel.generic.LDC: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
 Constructor.newInstance;<org.dom4j.DocumentFactory: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
 Constructor.newInstance;<sun.net.www.protocol.jar.Handler: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
-Constructor.newInstance;<sun.reflect.GeneratedConstructorAccessor$HASHED$7b916dc4ac6ca3b2c3fcd1fd199e4f0f9d94fab4: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
 Constructor.newInstance;<sun.text.resources.FormatData: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
 Constructor.newInstance;<sun.text.resources.FormatData_en: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
 Constructor.newInstance;<sun.text.resources.FormatData_en_US: void <init>()>;java.lang.Class.newInstance0;;isAccessible=true;
