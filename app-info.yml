@@ -45,3 +45,10 @@ freecol-0.10.3:
   libs: [ freecol/0.10.3/jars ]
   refl-log: freecol/0.10.3/refl.log
   phantom: true
+
+briss-0.9:
+  jdk: 6
+  main: at.laborg.briss.Briss
+  apps: [ briss/0.9/briss-0.9.jar ]
+  libs: [ briss/0.9 ]
+  refl-log: briss/0.9/refl.log
