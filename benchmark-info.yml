@@ -1,0 +1,123 @@
+- id: antlr
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/antlr.jar ]
+  libs: [ dacapo-2006/antlr-deps.jar ]
+  refl-log: dacapo-2006/antlr-refl.log
+
+- id: bloat
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/bloat.jar ]
+  libs: [ dacapo-2006/bloat-deps.jar ]
+  refl-log: dacapo-2006/bloat-refl.log
+
+- id: chart
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/chart.jar ]
+  libs: [ dacapo-2006/chart-deps.jar ]
+  refl-log: dacapo-2006/chart-refl.log
+
+- id: eclipse
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/eclipse.jar ]
+  libs: [ dacapo-2006/eclipse-deps.jar ]
+  refl-log: dacapo-2006/eclipse-refl.log
+  phantom: true
+
+- id: fop
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/fop.jar ]
+  libs: [ dacapo-2006/fop-deps.jar ]
+  refl-log: dacapo-2006/fop-refl.log
+
+- id: hsqldb
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/hsqldb.jar ]
+  libs: [ dacapo-2006/hsqldb-deps.jar ]
+  refl-log: dacapo-2006/hsqldb-refl.log
+
+- id: jython
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/jython.jar ]
+  libs: [ dacapo-2006/jython-deps.jar ]
+  refl-log: dacapo-2006/jython-refl.log
+
+- id: luindex
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/luindex.jar ]
+  libs: [ dacapo-2006/luindex-deps.jar ]
+  refl-log: dacapo-2006/luindex-refl.log
+
+- id: lusearch
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/lusearch.jar ]
+  libs: [ dacapo-2006/lusearch-deps.jar ]
+  refl-log: dacapo-2006/lusearch-refl.log
+
+- id: pmd
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/pmd.jar ]
+  libs: [ dacapo-2006/pmd-deps.jar ]
+  refl-log: dacapo-2006/pmd-refl.log
+
+- id: xalan
+  jdk: 6
+  main: Harness
+  apps: [ dacapo-2006/xalan.jar ]
+  libs: [ dacapo-2006/xalan-deps.jar ]
+  refl-log: dacapo-2006/xalan-refl.log
+
+- id: soot-2.3.0
+  jdk: 6
+  main: soot.Main
+  apps: [ soot/2.3.0/sootclasses-2.3.0.jar ]
+  libs: [ soot/2.3.0 ]
+  refl-log: soot/2.3.0/refl.log
+  phantom: true
+
+- id: gruntspud-0.4.6
+  jdk: 6
+  main: gruntspud.standalone.JDK13GruntspudHost
+  apps: [ gruntspud/0.4.6/GruntspudSA.jar ]
+  refl-log: gruntspud/0.4.6/refl.log
+
+- id: columba-1.4
+  jdk: 6
+  main: org.columba.core.main.Main
+  apps: [ columba/1.4/columba.jar ]
+  libs:
+    - columba/1.4/lib
+    - columba/1.4/native/linux
+  refl-log: columba/1.4/refl.log
+  phantom: true
+
+- id: jedit-3.0
+  jdk: 6
+  main: org.gjt.sp.jedit.jEdit
+  apps: [ jedit/3.0/jedit.jar ]
+  libs: [ jedit/3.0/lib ]
+  refl-log: jedit/3.0/refl.log
+
+- id: freecol-0.10.3
+  jdk: 6
+  main: net.sf.freecol.FreeCol
+  apps: [ freecol/0.10.3/FreeCol.jar ]
+  libs: [ freecol/0.10.3/jars ]
+  refl-log: freecol/0.10.3/refl.log
+  phantom: true
+
+- id: briss-0.9
+  jdk: 6
+  main: at.laborg.briss.Briss
+  apps: [ briss/0.9/briss-0.9.jar ]
+  libs: [ briss/0.9 ]
+  refl-log: briss/0.9/refl.log
