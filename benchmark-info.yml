@@ -76,6 +76,16 @@
   libs: [ dacapo-2006/xalan-deps.jar ]
   refl-log: dacapo-2006/xalan-refl.log
 
+- id: findbugs-3.0
+  jdk: 6
+  main: edu.umd.cs.findbugs.FindBugs2
+  apps:
+    - findbugs/3.0/lib/findbugs.jar
+    - findbugs/3.0/plugin
+  libs: [ findbugs/3.0/lib ]
+  refl-log: findbugs/3.0/refl.log
+  phantom: true
+
 - id: soot-2.3.0
   jdk: 6
   main: soot.Main
@@ -89,6 +99,7 @@
   main: gruntspud.standalone.JDK13GruntspudHost
   apps: [ gruntspud/0.4.6/GruntspudSA.jar ]
   refl-log: gruntspud/0.4.6/refl.log
+  phantom: true
 
 - id: columba-1.4
   jdk: 6
