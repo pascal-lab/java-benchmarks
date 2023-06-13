@@ -1,0 +1,21 @@
+optionsFile: null
+printHelp: false
+classPath: null
+appClassPath: java-benchmarks/log4j/2.14.0;java-benchmarks/log4j/2.14.0/log4j-api-2.14.0.jar;java-benchmarks/log4j/2.14.0/log4j-core-2.14.0.jar
+mainClass: Server
+inputClasses: []
+javaVersion: 8
+prependJVM: false
+allowPhantom: true
+worldBuilderClass: pascal.taie.frontend.soot.SootWorldBuilder
+outputDir: output
+preBuildIR: false
+worldCacheMode: false
+scope: APP
+nativeModel: true
+planFile: null
+analyses:
+  pta: cs:ci;implicit-entries:false;distinguish-string-constants:null;reflection-inference:solar;taint-config:java-benchmarks/log4j/2.14.0/taint-config.yml;reflection-log:java-benchmarks/log4j/2.14.0/refl.log; #dump-ci:true;
+onlyGenPlan: false
+keepResult:
+- $KEEP-ALL

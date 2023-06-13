@@ -1,0 +1,15 @@
+sources:
+  - { kind: call, method: "<Server: java.lang.String getInput()>", index: result }
+
+sinks:
+  - { method: "<javax.naming.InitialContext: java.lang.Object lookup(java.lang.String)>", index: 0 }
+
+transfers:
+  - { method: "<org.apache.logging.log4j.message.ReusableMessageFactory: org.apache.logging.log4j.message.Message newMessage(java.lang.String)>", from: 0, to: result, type: "org.apache.logging.log4j.message.ReusableSimpleMessage" }
+  - { method: "<org.apache.logging.log4j.core.impl.ReusableLogEventFactory: org.apache.logging.log4j.core.LogEvent createEvent(java.lang.String,org.apache.logging.log4j.Marker,java.lang.String,org.apache.logging.log4j.Level,org.apache.logging.log4j.message.Message,java.util.List,java.lang.Throwable)>", from: 4, to: result, type: "org.apache.logging.log4j.core.impl.MutableLogEvent" }
+  - { method: "<org.apache.logging.log4j.core.impl.MutableLogEvent: void formatTo(java.lang.StringBuilder)>", from: base, to: 0 }
+  - { method: "<java.lang.StringBuilder: void <init>(java.lang.String)>", from: 0, to: base }
+  - { method: "<java.lang.StringBuilder: java.lang.String substring(int,int)>", from: base, to: result }
+  - { method: "<java.lang.StringBuilder: void getChars(int,int,char[],int)>", from: base, to: 2 }
+  - { method: "<java.lang.String: java.lang.String substring(int)>", from: base, to: result }
+  - { method: "<java.lang.String: void <init>(char[],int,int)>", from: 0, to: base }
