@@ -1,7 +1,10 @@
 optionsFile: null
 printHelp: false
-classPath: null
-appClassPath: java-benchmarks/log4j/2.14.0;java-benchmarks/log4j/2.14.0/log4j-api-2.14.0.jar;java-benchmarks/log4j/2.14.0/log4j-core-2.14.0.jar
+classPath: []
+appClassPath:
+- java-benchmarks/log4j/2.14.0
+- java-benchmarks/log4j/2.14.0/log4j-api-2.14.0.jar
+- java-benchmarks/log4j/2.14.0/log4j-core-2.14.0.jar
 mainClass: Server
 inputClasses: []
 javaVersion: 8
