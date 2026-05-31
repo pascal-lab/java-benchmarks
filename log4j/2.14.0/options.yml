@@ -8,8 +8,6 @@ appClassPath:
 mainClass: Server
 inputClasses: []
 javaVersion: 8
-prependJVM: false
-allowPhantom: true
 worldBuilderClass: pascal.taie.frontend.soot.SootWorldBuilder
 outputDir: output
 preBuildIR: false
